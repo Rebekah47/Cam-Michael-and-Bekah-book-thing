@@ -1,0 +1,41 @@
+body {
+  font-family:'Nanum Gothic Coding', monospace;
+  background-color: rgb(28, 28, 28);
+
+}
+
+label {
+  color: whitesmoke;
+}
+
+body > ul {
+  list-style: None;
+  display: flex;
+}
+
+body > ul > ls {
+  margin: 2px;
+  padding: 12px;
+  border-radius: 12px;
+  border: solid 10px whitesmoke;
+  width: 150px;
+}
+
+body > h1 {
+  text-align: center; 
+  color: whitesmoke;
+}
+
+.book {
+  background-color: #9DF9EF;
+}
+
+.article {
+  background-color: rgb(210, 170, 223);
+}
+
+.blog-post {
+  background-color: rgb(126, 146, 204);
+}
+
+
